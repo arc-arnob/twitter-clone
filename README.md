@@ -1,5 +1,8 @@
 # twitter-clone
 
+# NOTE - 
+## 1. FOR LOGIN USE USER ID - arc_arnob and PASSWORD - qwerty
+
 ## Project setup
 ```
 npm install
